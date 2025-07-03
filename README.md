@@ -1,0 +1,1 @@
+Mod that blocks the attack from occurring when the player attacks (or shoots an arrow) while climbing a ladder. It will display a message to the player showing that the attack was blocked. The config file can enable/disable the blocking from meele attacks and bow, and enable/disable the displaying of the message.
