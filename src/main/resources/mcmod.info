@@ -1,0 +1,16 @@
+[
+{
+  "modid": "noattackingonladders",
+  "name": "No Attacking On Ladders",
+  "description": "Cancels the attack on an entity if it is performed by a player on a ladder (or vine)",
+  "version": "1.0.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Mahghuuuls"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
